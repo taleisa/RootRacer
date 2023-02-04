@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Carl2
+comment0.text=\r\n\ @author\ (Talal\ Aleisa,\ Naif\ Binkhathlan)\ \r\n
+comment1.params=
+comment1.target=Carl2()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Carl2.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Carl2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=int\ getObjCount()
+comment5.params=temp
+comment5.target=int\ compareTo(java.lang.Object)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
